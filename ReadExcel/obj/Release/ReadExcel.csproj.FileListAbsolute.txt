@@ -1,0 +1,11 @@
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\bin\Release\ReadExcel.dll
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\bin\Release\ReadExcel.pdb
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\bin\Release\SpreadsheetLight.dll
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\bin\Release\SpreadsheetLight.xml
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\obj\Release\ReadExcel.csprojAssemblyReference.cache
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\obj\Release\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\obj\Release\ReadExcel.csproj.CopyComplete
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\obj\Release\ReadExcel.dll
+C:\Users\DurvalSouzadeAraujo\Source\Repos\ReadExcel\ReadExcel\obj\Release\ReadExcel.pdb
