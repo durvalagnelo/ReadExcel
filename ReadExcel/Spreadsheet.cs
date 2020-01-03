@@ -36,7 +36,7 @@ namespace ReadExcel
             List<ReadOnlyCollection<string>> __return = new List<ReadOnlyCollection<string>>();
 
             SLWorksheetStatistics sLWorksheetStatistics = SLDocument.GetWorksheetStatistics();
-            for (int row = 1; row < sLWorksheetStatistics.EndRowIndex; row++)
+            for (int row = 1; row <= sLWorksheetStatistics.EndRowIndex; row++)
             {
                 ReadOnlyCollection<string> columns = ReadLine(row);
                 __return.Add(columns);
