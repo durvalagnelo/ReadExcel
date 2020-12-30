@@ -21,6 +21,11 @@ namespace ReadExcel
             }
         }
 
+        public SpreadSheet(MemoryStream stream)
+        {
+            SLDocument = new SLDocument(stream);
+        }
+
         public int CountRows()
         {
             return SLDocument.GetWorksheetStatistics().EndRowIndex;
